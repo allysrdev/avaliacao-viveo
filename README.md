@@ -1,4 +1,4 @@
-# 📄 **README – Avaliação Técnica Front-End | Viveo**
+# 📄 **Avaliação Técnica Front-End | Viveo**
 
 ## 🚀 Sobre o Projeto
 
